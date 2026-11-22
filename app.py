@@ -71,7 +71,8 @@ with col1:
 with col2:
     st.title(ustawienia.get("imie_nazwisko", "Imię i Nazwisko"))
     st.subheader(ustawienia.get("data_ur_sm", "Daty"))
-    st.write(ustawienia.get("wstep_tekst", "Tekst wspominkowy"))
+    wstep = ustawienia.get("wstep_tekst", "Tekst wspominkowy")
+    st.markdown(wstep.replace("\n", "  \n"))
 
 st.divider()
 
