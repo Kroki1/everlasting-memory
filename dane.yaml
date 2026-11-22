@@ -2,7 +2,7 @@
 ustawienia:
   imie_nazwisko: "Ireneusz Słomiński"
   data_ur_sm: "24.09.1959 - 07.11.2026"
-  wstep_tekst: "Dziękujemy za wszystkie wspólne chwile. Będzie nam Ciebie brakowało."
+  wstep_tekst: "Dziękujemy za wszystkie wspólne chwile. \nBędzie nam Ciebie brakowało."
   zdjecie_path: "zdjecie.png"
 
 # --- LISTA MSZY ---
