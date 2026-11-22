@@ -8,13 +8,13 @@ import yaml
 # Konfiguracja strony
 st.set_page_config(page_title="Ku pamięci", layout="centered")
 
-# --- STYLIZACJA (Tło dopasowane do zdjęcia #f3f2e6 + czytelność na telefonach) ---
+# --- STYLIZACJA (Dokładny kolor tła ze zdjęcia #f4f0e7) ---
 st.markdown(
     """
     <style>
     /* Główne tło aplikacji i górnego paska */
     .stApp, [data-testid="stAppViewContainer"], [data-testid="stHeader"] {
-        background-color: #f3f2e6 !important;
+        background-color: #f4f0e7 !important;
         color: #2b2925 !important;
     }
 
@@ -29,18 +29,18 @@ st.markdown(
         opacity: 0.5;
     }
 
-    /* Estetyczne obramowanie tabeli na kremowym tle */
+    /* Estetyczne obramowanie tabeli dopasowane do #f4f0e7 */
     table {
-        background-color: #faf9f2 !important;
+        background-color: #faf8f4 !important;
         border-radius: 8px;
         overflow: hidden;
     }
     th {
-        background-color: #ebe8d8 !important;
+        background-color: #ebe5d8 !important;
         font-weight: 600 !important;
     }
     td, th {
-        border-color: #dcd7c3 !important;
+        border-color: #dcd4c4 !important;
     }
     </style>
     """,
