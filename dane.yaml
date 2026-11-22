@@ -12,29 +12,45 @@ msze:
     Gdzie: "Parafia pw. Św. Jana Pawła II"
     Adres: "ul. Mołdawska 52, Poznań"
     Od kogo: "od żony i synów z rodzinami"
-    Lat: 52.366
-    Lon: 16.852
+    Lat: 52.448687
+    Lon: 16.937438
 
   - Data: "08.01.2027"
     Godzina: "18:00"
     Gdzie: "Parafia pw. Św. Mateusza Apostoła i Ewangelisty"
     Adres: "oś. Orła Białego 1/2, Poznań"
     Od kogo: "od brata Mariana z rodziną"
-    Lat: 52.385
-    Lon: 16.975
+    Lat: 52.379188
+    Lon: 16.965438
 
   - Data: "10.01.2027"
     Godzina: "11:00"
     Gdzie: "Parafia pw. Św. Jana Pawła II"
     Adres: "ul. Mołdawska 52, Poznań"
     Od kogo: "od rodziny Supłów"
-    Lat: 52.366
-    Lon: 16.852
+    Lat: 52.448687
+    Lon: 16.937438
+
+  - Data: "15.01.2027"
+    Godzina: "8:30"
+    Gdzie: "Parafia pw. Św. Jana Pawła II"
+    Adres: "ul. Mołdawska 52, Poznań"
+    Od kogo: "od kuzynki Violetty z rodziną"
+    Lat: 52.448687
+    Lon: 16.937438
 
   - Data: "24.01.2027"
     Godzina: "08:00"
     Gdzie: "Parafia pw. Św. Ducha"
     Adres: "ul. Władysława Jagiełły 23, Pobiedziska"
     Od kogo: "od rodziny Karasiewicz"
-    Lat: 52.477
-    Lon: 17.276
+    Lat: 52.477187
+    Lon: 17.284562
+
+  - Data: "07.11.2027"
+    Godzina: "09:00"
+    Gdzie: "Parafia pw. Św. Jana Pawła II"
+    Adres: "ul. Mołdawska 52, Poznań"
+    Od kogo: "od żony i synów z rodzinami"
+    Lat: 52.448687
+    Lon: 16.937438
