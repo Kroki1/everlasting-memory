@@ -1,0 +1,40 @@
+# --- KONFIGURACJA STRONY ---
+ustawienia:
+  imie_nazwisko: "Ireneusz Słomiński"
+  data_ur_sm: "24.09.1959 - 07.11.2026"
+  wstep_tekst: "Dziękujemy za wszystkie wspólne chwile. Będzie nam Ciebie brakowało."
+  zdjecie_path: "zdjecie.png"
+
+# --- LISTA MSZY ---
+msze:
+  - Data: "23.12.2026"
+    Godzina: "06:20"
+    Gdzie: "Parafia pw. Św. Jana Pawła II"
+    Adres: "ul. Mołdawska 52, Poznań"
+    Od kogo: "od żony i synów z rodzinami"
+    Lat: 52.366
+    Lon: 16.852
+
+  - Data: "08.01.2027"
+    Godzina: "18:00"
+    Gdzie: "Parafia pw. Św. Mateusza Apostoła i Ewangelisty"
+    Adres: "oś. Orła Białego 1/2, Poznań"
+    Od kogo: "od brata Mariana z rodziną"
+    Lat: 52.385
+    Lon: 16.975
+
+  - Data: "10.01.2027"
+    Godzina: "11:00"
+    Gdzie: "Parafia pw. Św. Jana Pawła II"
+    Adres: "ul. Mołdawska 52, Poznań"
+    Od kogo: "od rodziny Supłów"
+    Lat: 52.366
+    Lon: 16.852
+
+  - Data: "24.01.2027"
+    Godzina: "08:00"
+    Gdzie: "Parafia pw. Św. Ducha"
+    Adres: "ul. Władysława Jagiełły 23, Pobiedziska"
+    Od kogo: "od rodziny Karasiewicz"
+    Lat: 52.477
+    Lon: 17.276
